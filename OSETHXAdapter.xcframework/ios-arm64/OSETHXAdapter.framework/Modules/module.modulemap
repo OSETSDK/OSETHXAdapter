@@ -1,0 +1,6 @@
+framework module OSETHXAdapter {
+  umbrella header "OSETHXAdapter.h"
+  export *
+
+  module * { export * }
+}
